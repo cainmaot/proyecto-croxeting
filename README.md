@@ -1,2 +1,2 @@
 # croxeting
- proyecto sitio web
+ proyecto de sitio web
